@@ -11,6 +11,13 @@ LifeQuest- RP Yourself(R)(TM)(C)
 - edit
 - completing will level up your stats
 - reward field for completion
+- users can save favorite quests so they can repeat them
+
+(tbd)
+- figure out stat categories
+- create a system to assign stat increases for different quests
+  + idea: give users a set # of points to be distributed throughout stats
+
 
 ## 5. Character
 - has stats that level up from completing quests
