@@ -1,5 +1,5 @@
 # MVP List
-LifeQuest- RP Yourself(R)
+LifeQuest- RP Yourself(R)(TM)(C)
 
 ## 1. New account creation, login, auth
 ## 2. A production README
