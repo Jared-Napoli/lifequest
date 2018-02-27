@@ -18,6 +18,9 @@ LifeQuest- RP Yourself(R)(TM)(C)
 - create a system to assign stat increases for different quests
   + idea: give users a set # of points to be distributed throughout stats
 
+(future)
+- nest quests (subquests)
+
 
 ## 5. Character
 - has stats that level up from completing quests
