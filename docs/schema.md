@@ -5,6 +5,7 @@ Note: this page will be bare-bones until we learn the particulars of MongoDB.
 - username/email
 - password
 - level
+- level-up rewards
 - stats (Strength, Endurance, Agility, Wisdom, Discipline, etc.)
 - saved quests
 
