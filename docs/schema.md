@@ -11,5 +11,7 @@ Note: this page will be bare-bones until we learn the particulars of MongoDB.
 ## Quests
 - title
 - description
+- completion status
+- completion time
 - stat increases
 - irl rewards
