@@ -9,6 +9,7 @@ LifeQuest- RP Yourself(R)(TM)(C)
 - create
 - complete
 - edit
+- delete?
 - completing will level up your stats
 - reward field for completion
 - users can save favorite quests so they can repeat them
